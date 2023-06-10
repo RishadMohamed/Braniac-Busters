@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595163065433",
+    "project_id": "dermhub-b6a9a",
+    "storage_bucket": "dermhub-b6a9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595163065433:android:3574cfd91076fcfb189548",
+        "android_client_info": {
+          "package_name": "com.example.dermhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595163065433-sgjue7qak7jlvi1i93hovhgpuc727ilo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArL-RDHuWQSH5zduJ8quXcfm3XD6tqqHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595163065433-sgjue7qak7jlvi1i93hovhgpuc727ilo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
